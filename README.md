@@ -4,6 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScP4KQpEbf0Datu-cc4_NceT0PY7-U71eTkI0U-S1vbb4koA04Q3whws5XLIXJLHhDzi8&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idrissjem&label=Profile%20views&color=0e75b6&style=flat" alt="idrissjem" /> </p>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=idrissjem&label=Profile%20views&color=0e75b6&style=flat" alt="idrissjem" /> </p>
+
 - 🔭 I’m currently working on [Fit-Connect](https://github.com/Idrissjem/Idrissjem.git)
 
 - 🌱 I’m currently learning **Flutter**
@@ -12,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/idriss-jemli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="idriss-jemli" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/idriss-jemli-892068218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="idriss-jemli-892068218" height="30" width="40" /></a>
 <a href="https://fb.com/idriss.jamli.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="idriss.jamli.5" height="30" width="40" /></a>
 <a href="https://instagram.com/idriss_jem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="idriss_jem" height="30" width="40" /></a>
 </p>
