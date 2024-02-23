@@ -91,18 +91,10 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
   </a>
-  <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_after_effects/adobe_after_effects-icon.svg" alt="After Effects" width="40" height="40"/>
-  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
 </p>
-
-<!-- Animated Line -->
-<div align="center">
-  <div style="height: 2px; width: 50px; background-color: #4CAF50; margin-top: 20px;"></div>
-</div>
 
 <!-- Second Picture -->
 <p align="center">
