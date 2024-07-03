@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **idriss.jemli@esprit.tn**
 
-- 📄 Know about my experiences [/in/idriss-jemli]
+- 📄 Know about my experiences [www.linkedin.com/in/idriss-jemli-892068218]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
